@@ -1,0 +1,29 @@
+{
+  "name": "@hqjs/babel-plugin-transform-mixed-imports",
+  "version": "0.0.1",
+  "description": "Transform mixed imports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqjs/babel-plugin-transform-mixed-imports.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "hq",
+    "mixed",
+    "import"
+  ],
+  "author": "hqjs <hqjsorg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hqjs/babel-plugin-transform-mixed-imports/issues"
+  },
+  "homepage": "https://hqjs.org",
+  "publishConfig": {
+    "access": "public"
+  }
+}
