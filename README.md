@@ -11,5 +11,5 @@ import {b, c} from 'd';
 
 # Installation
 ```sh
-npm install hqjs@babel-plugin-transform-mixed-imports
+npm install @hqjs/babel-plugin-transform-mixed-imports
 ```
